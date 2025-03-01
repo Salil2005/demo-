@@ -1,4 +1,4 @@
 # demo-
 this is my git demo.
 <br>
-Author - Salil Gupta
+Author - Salil sgsits
